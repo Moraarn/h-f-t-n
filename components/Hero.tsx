@@ -17,7 +17,7 @@ export function Hero() {
       <div className="container relative z-10 px-4 md:px-6 text-white">
         <div className="max-w-3xl mx-auto text-center space-y-6">
           <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-            A Life<span className="text-primary">  Lived For</span> Others Is A Life  Worthwhile
+            Only A Life<span className="text-primary">  Lived For</span> Others Is A Life  Worthwhile
           </h1>
           <p className="text-lg md:text-xl text-white/90 max-w-[700px] mx-auto">
             We are a group of passionate Kenyan youths dedicated to making a difference in our society through community
